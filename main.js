@@ -42,7 +42,6 @@ const getPosts = url => {
 }
 
 
-
 // el endpoint es el URL
 // API permite q al entregar un objeto en formato json y se puede usar en cualquier tecnologia
 // son peticiones al servidor y por defecto es GET (permite ejecutar o buscar el recurso), 
